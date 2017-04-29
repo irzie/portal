@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+#idx-left-side{
+   display:none;}
+
+#sp-header{
+   display:block;
+   margin-bottom:0px;}
+   
+.navbar{
+   margin:0;}
+
+#pc-visual{
+   display:none;}
+
+#card_campaign{
+   display:block;}
+
+ 
+
+
+#twitter-widget-0{
+    font-size:0.8em!important;
+    width:90%!important;}
+ 
+#timeline{
+   width:100%;
+   overflow:scroll;}
+
+#timeline iframe{
+   width:100%!important;}
+
+#right-banner{
+   margin-top:20px;}
+   
+.youtube{
+      margin-top:20px;
+      margin-bottom:0px;}
+
+#timeline{
+   margin-bottom:50px;}
+   
+   
+
+/* ビジュアル */
+
+
+#sp-visual{
+   display:block;
+   height:590px;}
+
+#spcrossfade{
+    position: relative;
+    z-index: 1;
+    overflow: visible;
+    width:100%;
+}
+#spcrossfade li{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width:100%;
+}
+
+
+ 

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.onair-list{
+   width:100%;
+   margin:35px auto 10px auto;}
+
+.onair-list td,
+.onair-list th{
+   padding:15px;
+   border:#000 1px solid;
+      font-weight:bold;}
+
+.onair-list td span,
+.onair-list th span{
+   font-size:1.5em;
+}
+   
+
+.onair-list th{
+   font-size:1.5em;}
+
+.spanred{
+   color:#f90000;
+   font-size:1.1em!important;}
