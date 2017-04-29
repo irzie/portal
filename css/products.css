@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+.comics-list div{:;}
+
+.comics-list img:hover{
+   opacity:0.8;}

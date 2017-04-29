@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.chara-list a img:hover{
+   background:#F12D31;}
+
+
+
+.chara-list a img,
+.chara-list a img::before,
+.chara-list a img::after {
+	-webkit-transition: all .3s;
+	transition: all .3s;
+}
+
+.chara-list div{
+   margin-bottom:30px;}
+
+.thumb_list{
+   margin-top:40px;
+   padding-top:40px;
+   border-top:1px solid #000;}

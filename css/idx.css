@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+html, body{
+   margin:0;
+   padding:0;
+   font-family: "游ゴシック", "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ ゴシック", sans-serif!important;
+   background-image:  url(../img/black-wallpaper-8.jpg);
+   color:#D3D3D3!important;
+   background-position: center;
+   background-repeat: repeat;
+
+
+        }
+
+
+a,
+a:visited{
+   color:#fff!important;
+   text-decoration:underline!important;}
+
+a:hover{
+   text-decoration:none!important;}
+
+
+/* --- 左サイド ------------------------------ */
+
+#idx-logo{
+   margin:0 0 20px 0;}
+
+
+
+/* 
+#idx-logo,
+#idx-logo::before,
+#idx-logo::after {
+	-webkit-transition: all .3s ease-in;
+	transition: all .3s ease-in;}
+
+#idx-logo:hover{
+   background:#DF2225;}
+
+*/
+
+
+
+
+#left-menu-nav {
+	margin-top: 40px;
+    background-color: transparent}
+
+#left-menu-nav li{
+	margin-top: 0px;
+   margin-bottom:5px;
+   padding:5px 0;}
+
+
+#left-menu-nav li,
+#left-menu-nav li::before,
+#left-menu-nav li::after {
+	-webkit-transition: all .3s ease-in;
+	transition: all .3s ease-in;}
+
+#left-menu-nav li:hover{
+   background-image: url(../img/common/bt_slice.png); position: right}
+
+
+
+
+/* --- ビジュアル ------------------------------ */
+#sp-visual{
+   display:none;}
+
+#crossfade{
+    position: relative;
+    z-index: 1;
+    overflow: visible;
+    width:100%;
+    min-height:950px;
+    overflow:hidden;
+}
+#crossfade li{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    min-height:950px;
+    overflow:hidden;
+}
+@media screen and (max-width: 760px) {
+
+}
+ 
+
+
+
+
+
+/* --- ヘッダー非表示 ------------------------------ */
+#sp-header{
+   display:none;}
+
+
+
+/* --- 右サイド ------------------------------ */
+
+
+
+#right-news-inner dt{
+   color:#ffe000;}
+
+#right-news-inner dd{
+	margin-right: 0px;
+   margin-bottom:15px;
+   padding-bottom:15px;
+   border-bottom:#ffe000 1px dotted;}
+
+
+
+
+#right-banner ul,
+#right-banner li{
+   margin:0;
+   padding:0;}
+
+#right-banner li{
+   margin-bottom:20px;}
+
+#card_campaign{
+   display:none;}
+
+/* --- footer ------------------------------ */
+ 
+#timelinee{
+   margin-bottom:10px;}
+
+
+
+
+#idx-footer{
+   padding-top:10px;
+   clear:both;}
+
+
+
+
+
+/* --- NEWS ------------------------------ */
+
+#right-news-inner{
+   height:350px;
+  
+   overflow:auto;}
+

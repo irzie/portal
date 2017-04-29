@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.main-carousel{
+   width:750px;
+   margin:auto;}
+
+.contents{
+   margin-top:20px;}
+
+.image .row{
+   width:100%;
+   margin:auto;
+   display:table;}
+
+.image .row div{
+   display:table-cell;}
