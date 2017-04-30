@@ -210,8 +210,8 @@
         .newsBox dl dt {
           font-size: 12px;
           font-size: 2.3rem;
-		top: 90px;
-      left: 130px;		  } }
+		top: 70px;
+      left: 100px;		  } }
 	  
 	   .newsBox dl dm {
 	font-family: 'Roboto', sans-serif;
@@ -232,8 +232,8 @@
         .newsBox dl dm {
           font-size: 12px;
           font-size: 2.3rem;
-		top: 105px;
-      left: 150px;		  } }
+		top: 85px;
+      left: 120px;		  } }
     .newsBox dl dd {
       font-size: 10px;
       font-size: 1.4rem;
